@@ -9,7 +9,7 @@
     "express": "^4.17.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "^3.2.0"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "test": "mocha --require @babel/register",
@@ -27,7 +27,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "ignore-styles": "^5.0.1",
-    "mocha": "^6.2.2"
+    "mocha": "^11.7.5"
   },
   "browserslist": [
     ">0.2%",
